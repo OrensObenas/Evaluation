@@ -1,0 +1,34 @@
+Description du Projet
+Titre: TP2 | Evaluation IMSP
+Ce projet consiste en une page web statique pour gérer l'évaluation des étudiants à l'Institut de Mathématiques et de Sciences Physiques (IMSP).
+
+Fonctionnalités
+1. Barre de Navigation
+Une barre de navigation permettant aux utilisateurs de naviguer facilement entre les différentes sections de la page.
+
+Accueil: Redirige vers la page d'accueil.
+Evaluation: Permet d'accéder aux fonctionnalités liées à l'évaluation des étudiants.
+Saisie Note: Page pour la saisie des notes des étudiants.
+Consultation: Page pour consulter les notes enregistrées.
+Contactez-nous !: Donne accès aux informations de contact de l'IMSP.
+2. Header
+En-tête contenant le logo de l'Université d'Abomey-Calavi (UAC) à gauche, le nom de l'Institut au centre, et le logo de l'IMSP à droite.
+
+3. Footer
+Pied de page contenant le copyright de l'IMSP avec l'année en cours et la mention "Tout droit réservé !".
+
+4. Technologies Utilisées
+HTML: Langage de balisage utilisé pour la structure de la page.
+CSS (Bootstrap): Framework CSS utilisé pour le style de la page.
+JavaScript (Bootstrap): Utilisé pour la fonctionnalité du bouton de navigation mobile.
+5. Images
+Les logos de l'UAC et de l'IMSP sont inclus dans le dossier assets/images/.
+
+6. Styles
+Les fichiers de style CSS sont inclus dans le dossier assets/style/.
+
+7. Scripts
+Le fichier JavaScript de Bootstrap est inclus dans le dossier assets/js/.
+
+8)Base de donnes
+Utilisation de sql pour gerer la base de donne
